@@ -149,7 +149,7 @@ while True:
 
 ## 📫 Connect With Me
 
-- LinkedIn: www.linkedin.com/in/amrutha-pawar-7a18b0310
+- LinkedIn: https://www.linkedin.com/in/pawar-amrutha-124056292/
 - Email: amruthapawar72@gmail.com
 - GitHub: https://github.com/Amrutha-Pawar
 
