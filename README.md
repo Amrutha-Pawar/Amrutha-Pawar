@@ -10,7 +10,6 @@ That question is what pulled me into Machine Learning, AI research, analytics, a
 
 Right now, I'm exploring everything from predictive healthcare models to intelligent applications powered by large language models. Some days I'm reading research papers, some days I'm debugging code for hours, and some days I'm experimenting with datasets just to see what patterns emerge.
 
----
 
 My goal is to become a Data Scientist and contribute to innovative solutions in healthcare, education, and emerging technologies through data-driven decision making.
 
