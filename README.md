@@ -1,15 +1,16 @@
-# Hi there 👋, I'm Amrutha Pawar
+# Hey, I'm Amrutha 👋
 
-🎓 B.Tech Computer Science Engineering Student (2023–2027)
-📍 India
-💡 AI Researcher | Machine Learning Enthusiast | Aspiring Data Scientist
-🚀 Passionate about solving real-world problems using Data Science, Artificial Intelligence, and Software Development.
+Most of my time is currently spent exploring **Machine Learning, Data Science, AI research, and backend development**. I enjoy taking ideas from research papers and turning them into working prototypes that solve real-world problems.
+
+I'm a Computer Science student who is fascinated by one question:
+
+### How can data help us understand complex systems and make better decisions?
+
+That question is what pulled me into Machine Learning, AI research, analytics, and software development.
+
+Right now, I'm exploring everything from predictive healthcare models to intelligent applications powered by large language models. Some days I'm reading research papers, some days I'm debugging code for hours, and some days I'm experimenting with datasets just to see what patterns emerge.
 
 ---
-
-## 🚀 About Me
-
-I am a Computer Science Engineering student with a strong interest in Artificial Intelligence, Machine Learning, Data Science, and Research. I enjoy building intelligent systems, analyzing complex datasets, and developing scalable applications that create meaningful impact.
 
 My goal is to become a Data Scientist and contribute to innovative solutions in healthcare, education, and emerging technologies through data-driven decision making.
 
