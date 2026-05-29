@@ -134,29 +134,9 @@ An intelligent interview preparation platform powered by AI.
 
 ---
 
-## 🌱 Learning Journey
-
-```python
-while True:
-    learn()
-    build()
-    research()
-    contribute()
-    improve()
-```
-
----
 
 ## 📫 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/pawar-amrutha-124056292/
 - Email: amruthapawar72@gmail.com
 - GitHub: https://github.com/Amrutha-Pawar
-
----
-
-### 💡 Quote I Believe In
-
-"Data is not just numbers; it is the story of the future waiting to be discovered."
-
-⭐ If you find my projects useful, feel free to star the repositories and connect with me!
